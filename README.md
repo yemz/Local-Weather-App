@@ -11,4 +11,4 @@ User Stories:
 Note: Firefox and Chrome browsers compatible.
  
 -----------------------------------------------------------------------------------------------------------------------------------
-Live App: https://s.codepen.io/yesseniamelendez/debug/RLOZJY/yokZEQmyzNbA
+Live App: https://codepen.io/yesseniamelendez/pen/RLOZJY
